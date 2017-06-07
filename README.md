@@ -1,8 +1,12 @@
-# Public Code for Machine Learning
+# Public code of the research paper
 
-## Law and Norms: A Machine Learning Approach to Predicting Attitudes Towards Abortion
+Law and Norms: A Machine Learning Approach to Predicting Attitudes Towards Abortion
 
-## Data: Private
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2816659
+
+## Data: 
+
+Private
 
 ## Abstract 
 
