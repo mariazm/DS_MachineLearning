@@ -32,10 +32,9 @@ NYU Courant Institute, Center for Data Science
 
 NYU Courant Institute, Center for Data Science
 
+- Advisor: Daniel L. Chen
 
-
-Advisor: Daniel L. Chen
 University of Toulouse 1 - Toulouse School of Economics Institute for Advanced Studies/Harvard Law School LWP; Harvard Law School
 
 
-Date Written: July 31, 2016
+####  July 31, 2016
